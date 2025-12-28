@@ -168,7 +168,7 @@ This project is lightweight, explainable, and ethically designed, making it high
 ---
 ## 👨‍💻 Author
 
-**Manu Didwania**
+**ManasS Didwania**
 - 🌐 GitHub: https://github.com/Manu082
 - 🚀 Live App: https://mental-health-chatbot-with-suggest-medicine.streamlit.app/
 
@@ -188,4 +188,5 @@ You are free to:
 This project is intended for **educational and demonstration purposes only** and should not be used as a replacement for professional medical advice.
 
 ---
+
 
