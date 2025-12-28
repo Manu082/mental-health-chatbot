@@ -30,3 +30,26 @@ This project is developed for **academic, internship, and learning purposes** an
 - Deployed globally using **Streamlit Cloud**
 
 ---
+## 🚀 Key Features
+
+- **Interactive Chat Interface**  
+  User-friendly Streamlit-based interface that allows real-time conversation with the chatbot.
+
+- **Emotion Detection**  
+  Identifies emotional states such as anxiety, sadness, stress, and neutral mood from user input.
+
+- **Health Problem Identification**  
+  Detects common physical and mental health problems like headache, fever, vomiting, blood pressure, weakness, and insomnia.
+
+- **Suggested Care & Solutions**  
+  Provides non-medical, practical care tips and lifestyle suggestions based on detected problems.
+
+- **Tablet Awareness Section**  
+  Displays commonly known tablet names for awareness only, with a clear medical disclaimer.
+
+- **Rule-Based NLP System**  
+  Uses tokenization and lemmatization instead of datasets or model training, making it lightweight and explainable.
+
+- **Global Deployment**  
+  Deployed on Streamlit Community Cloud and accessible worldwide through a public URL.
+
