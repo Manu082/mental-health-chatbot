@@ -53,3 +53,19 @@ This project is developed for **academic, internship, and learning purposes** an
 - **Global Deployment**  
   Deployed on Streamlit Community Cloud and accessible worldwide through a public URL.
 
+  ---
+  ## 🛠 Technology Stack
+
+- **Programming Language:** Python  
+- **Frontend Framework:** Streamlit  
+- **Natural Language Processing (NLP):** NLTK  
+- **Text Processing Techniques:** Tokenization and Lemmatization  
+- **Logic Implementation:** Rule-Based Decision System  
+- **Version Control:** Git & GitHub  
+- **Deployment Platform:** Streamlit Community Cloud  
+
+This technology stack ensures the application is **lightweight, scalable, easy to understand**, and suitable for **academic and internship-level projects**.
+---
+
+
+
