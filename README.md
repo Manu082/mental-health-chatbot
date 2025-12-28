@@ -54,7 +54,7 @@ This project is developed for **academic, internship, and learning purposes** an
   Deployed on Streamlit Community Cloud and accessible worldwide through a public URL.
 
   ---
-  ## 🛠 Technology Stack
+## 🛠 Technology Stack
 
 - **Programming Language:** Python  
 - **Frontend Framework:** Streamlit  
@@ -66,6 +66,10 @@ This project is developed for **academic, internship, and learning purposes** an
 
 This technology stack ensures the application is **lightweight, scalable, easy to understand**, and suitable for **academic and internship-level projects**.
 ---
+## 📐 Project Architecture
 
+The application follows a modular and easy-to-understand architecture where each component has a specific responsibility.
+
+### 🔹 Architecture Flow
 
 
