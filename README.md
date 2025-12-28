@@ -86,5 +86,36 @@ Tablet Awareness
 ↓  
 Streamlit Interface
 ---
+## ⚙️ How the System Works (Step-by-Step)
 
+The chatbot processes user input through multiple NLP-driven stages to provide meaningful and safe responses.
+
+### 🔹 Step 1: User Input
+- The user enters text describing their feelings or health problems using the Streamlit interface.
+
+### 🔹 Step 2: Text Preprocessing
+- The input text is converted to lowercase.
+- **Tokenization** splits the sentence into individual words.
+- **Lemmatization** converts words into their base or root form.
+
+### 🔹 Step 3: Emotion Detection
+- A rule-based NLP engine analyzes the processed text.
+- Emotional states such as **anxiety, sadness, stress, or neutral mood** are identified.
+
+### 🔹 Step 4: Problem Detection
+- The system checks for keywords related to common physical and mental health problems.
+- Problems such as **headache, fever, vomiting, blood pressure, weakness, and insomnia** are detected.
+
+### 🔹 Step 5: Suggested Care & Solutions
+- Non-medical and practical care suggestions are displayed.
+- These include lifestyle tips, rest advice, and basic self-care actions.
+
+### 🔹 Step 6: Tablet Awareness Section
+- Commonly known tablet names are shown **only for awareness**.
+- A clear **medical disclaimer** is provided to avoid misuse.
+
+### 🔹 Step 7: Output Display
+- All results are presented in a clean, interactive Streamlit UI.
+- The user can continue the conversation in real time.
+---
 
