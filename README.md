@@ -118,4 +118,19 @@ The chatbot processes user input through multiple NLP-driven stages to provide m
 - All results are presented in a clean, interactive Streamlit UI.
 - The user can continue the conversation in real time.
 ---
+## ▶️ How to Run the Project Locally
+
+Follow these steps to run the Mental Health Support Chatbot on your local system.
+
+### 🔹 Prerequisites
+- **Python 3.8 or above**
+- **Git**
+- **Internet connection** (for first-time dependency installation)
+
+### 🔹 Step 1: Clone the Repository
+```bash
+git clone https://github.com/Manu082/mental-health-chatbot.git
+cd mental-health-chatbot
+
+###🔹 Step 2: Create and Activate Virtual Environment
 
