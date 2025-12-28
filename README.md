@@ -118,27 +118,74 @@ The chatbot processes user input through multiple NLP-driven stages to provide m
 - All results are presented in a clean, interactive Streamlit UI.
 - The user can continue the conversation in real time.
 ---
-## ▶️ How to Run the Project Locally
+## 🌐 Deployment on Streamlit Community Cloud
 
-Follow these steps to run the Mental Health Support Chatbot on your local system.
+### 🔹Run Application 
+https://mental-health-chatbot-with-suggest-medicine.streamlit.app/
 
-### 🔹 Prerequisites
-- **Python 3.8 or above**
-- **Git**
-- **Internet connection** (for first-time dependency installation)
-
-### 🔹 Step 1: Clone the Repository
-```bash
-git clone https://github.com/Manu082/mental-health-chatbot.git
-cd mental-health-chatbot
 ---
+## ⚠️ Medical Disclaimer
 
-### **🔹 Step 2: Create and Activate Virtual Environment**
+- This application is developed **for educational and awareness purposes only**.
+- The chatbot **does not provide medical diagnosis or prescriptions**.
+- Tablet suggestions are shown **only for general awareness**.
+- Users are strongly advised to **consult a qualified healthcare professional** before taking any medication.
+- The developers are **not responsible for any misuse** of the information provided by the chatbot.
 
-**Create virtual environment:**
-```bash
-python -m venv venv
+---
+## 🔮 Future Scope
 
+The current system is rule-based and lightweight. In the future, the project can be enhanced in the following ways:
 
+- **Deep Learning-Based Emotion Detection**  
+  Replace rule-based logic with deep learning models such as LSTM, GRU, or Transformer-based models for improved accuracy.
 
+- **Multilingual Support**  
+  Enable the chatbot to understand and respond in multiple languages for wider accessibility.
+
+- **Voice Input and Speech Analysis**  
+  Integrate speech-to-text and emotion recognition from voice for a more interactive experience.
+
+- **User Personalization**  
+  Store user interaction history to provide personalized responses and recommendations.
+
+- **Severity Detection and Alerts**  
+  Detect critical conditions and provide emergency guidance or helpline suggestions.
+
+- **Healthcare Professional Integration**  
+  Connect the chatbot with certified doctors or counselors for real-time assistance.
+
+- **Mobile Application Deployment**  
+  Extend the system to Android and iOS platforms for better reach.
+
+---
+## 📌 Conclusion
+
+The **Mental Health Support Chatbot** demonstrates the practical application of **Natural Language Processing (NLP)** concepts such as **tokenization and lemmatization** in a real-world scenario. By combining rule-based emotion detection with health problem identification, the system provides meaningful emotional support, practical care suggestions, and safe tablet awareness through an interactive Streamlit interface.
+
+This project is lightweight, explainable, and ethically designed, making it highly suitable for **academic submission, internship evaluation, and portfolio showcase**. Its global deployment using **Streamlit Community Cloud** further highlights real-world usability and accessibility.
+
+---
+## 👨‍💻 Author
+
+**Manu Didwania**
+- 🌐 GitHub: https://github.com/Manu082
+- 🚀 Live App: https://mental-health-chatbot-with-suggest-medicine.streamlit.app/
+
+Feel free to explore the project, use it for learning purposes, and suggest improvements.
+
+---
+## 📄 License
+
+This project is released under the **MIT License**.
+
+You are free to:
+- Use the project for **learning and academic purposes**
+- Modify and improve the code
+- Share the project with proper attribution
+
+### ⚠️ Important Note
+This project is intended for **educational and demonstration purposes only** and should not be used as a replacement for professional medical advice.
+
+---
 
