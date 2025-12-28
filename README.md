@@ -71,5 +71,19 @@ This technology stack ensures the application is **lightweight, scalable, easy t
 The application follows a modular and easy-to-understand architecture where each component has a specific responsibility.
 
 ### 🔹 Architecture Flow
+## User Input
+↓
+## Tokenization & Lemmatization
+↓
+## Emotion Detection
+↓
+## Problem Detection
+↓
+## Care & Solutions
+↓
+## Tablet Awareness
+↓
+## Streamlit Interface
+---
 
 
