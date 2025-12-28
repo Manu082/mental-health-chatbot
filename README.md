@@ -132,5 +132,11 @@ Follow these steps to run the Mental Health Support Chatbot on your local system
 git clone https://github.com/Manu082/mental-health-chatbot.git
 cd mental-health-chatbot
 
-###🔹 Step 2: Create and Activate Virtual Environment
+### **🔹 Step 2: Create and Activate Virtual Environment**
+
+**Create virtual environment:**
+```bash
+python -m venv venv
+
+
 
